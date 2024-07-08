@@ -3,6 +3,7 @@
 
 👩‍💻 Our products are listed all on onfuse.ch, if you have any inquiries, drop us an email.
 
+🇨🇭 Made in Switzerland
 
 ## About us
 🤝 We love open source
